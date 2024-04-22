@@ -1,0 +1,13 @@
+.card {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    transform: scale(1.2);
+  }
+   
+  .card-group{
+    width: 260px;
+    height: 260px;
+  }
